@@ -47,8 +47,6 @@ view: ad_performance {
 }
 
 # -------------------------------------------------------- AD PERFORMANCE CORE
-# This has all of the core fields that are shared between ad_performance and ad_performance_attributed.
-
 
 view: ad_performance_core {
   extension: required
